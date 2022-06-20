@@ -11,11 +11,10 @@ import {element} from 'prop-types';
 function App(props) {
   return (
     <div className="App">
-      <Header title="Routing"/>
+      <Header title="El Bicho"/>
       <Content >
         {props.children}
       </Content>
-      <Footer />
     </div>
   );
 

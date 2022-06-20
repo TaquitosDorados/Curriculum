@@ -1,0 +1,8 @@
+.Lista {
+    display: flex;
+    flex-direction: row;
+}
+
+.boxes {
+    background-color: rgb(163, 163, 163);
+}
